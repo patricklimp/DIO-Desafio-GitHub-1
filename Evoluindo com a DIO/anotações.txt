@@ -1,0 +1,5 @@
+Git init -inicializar um repositorio
+git add - adicionar um repositorio para poder ser commitado
+git add * - adicionar um repositorio para poder ser commitado por completo
+
+git commit - commitar u mrepositorio
