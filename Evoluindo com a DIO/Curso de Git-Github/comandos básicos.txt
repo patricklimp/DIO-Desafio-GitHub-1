@@ -1,0 +1,7 @@
+mkdir - criar uma pasta
+
+ctrl + L -limpa a area
+
+cd - entrar em uma pasta
+
+cd.. - voltar para uma pasta
